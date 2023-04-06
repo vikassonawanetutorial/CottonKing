@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CottonKing/static/css/main.2ccf714d.css",
+    "main.js": "/CottonKing/static/js/main.015333c2.js",
+    "index.html": "/CottonKing/index.html",
+    "main.2ccf714d.css.map": "/CottonKing/static/css/main.2ccf714d.css.map",
+    "main.015333c2.js.map": "/CottonKing/static/js/main.015333c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ccf714d.css",
+    "static/js/main.015333c2.js"
+  ]
+}
